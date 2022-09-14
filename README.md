@@ -7,7 +7,7 @@
 - User dapat melakukan registrasi
 - Admin meenggunggah data makanan
 - Admin dapat mengubah data pesanan
-- 
+
 # Struktur Data
 
 Atribut | Tipe Data | Contoh
@@ -15,3 +15,6 @@ Atribut | Tipe Data | Contoh
 id | Integer | 1
 Username | String | Nada
 Password | String | 123
+
+# Mockup
+![Mockup](https://user-images.githubusercontent.com/83103988/190195783-31ec4fe3-9b00-4323-80de-bb400a9cf8d1.jpeg)
